@@ -2,4 +2,4 @@
 Hello
 <p>This is a <br>
   line break<p>
-   __Bold text__
+This is some **bold text**
